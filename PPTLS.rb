@@ -5,3 +5,4 @@
      # Implementaci´on en subclases
    end
  end
+put x
